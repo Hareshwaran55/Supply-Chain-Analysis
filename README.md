@@ -4,7 +4,7 @@ A pandas-based data cleaning and analysis project simulating shipment, cost, and
 
 ## 📁 File
 
-[`supply_chain_analysis.py`](supply_chain_analysis.py) (pipeline script) + [`supply_chain_data.xlsx`](supply_chain_data.xlsx) (raw) → [`supply_chain_data_cleaned.xlsx`](supply_chain_data_cleaned.xlsx) (cleaned output)
+[`supply_chain_analysis.py`](supply_chain_analysis.py) (pipeline script) + [`supply_cahin_data.xlsx`](supply_chain_data.xlsx) (raw) → [`supply_chain_data_cleaned.xlsx`](supply_chain_data_cleaned.xlsx) (cleaned output)
 
 ## 📊 Dataset Structure
 
