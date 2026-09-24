@@ -5,5 +5,5 @@ An end-to-end pandas project that cleans messy supply chain data (mixed date for
 | File Name | Description |
 | :--- | :--- |
 | `notebook.ipynb` | Python code for cleaning and analysis |
-| `supply_chain_data_cleaned.xlsx` | Final cleaned dataset |
+| `supply cahin data.xlsx` | Final cleaned dataset |
 | `README.md` | Project documentation |
