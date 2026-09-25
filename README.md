@@ -69,13 +69,6 @@ The dataset is a single shipment-level table, **6,000 cleaned rows** (from 6,150
 
 This dataset illustrates a large, multi-region supply network where shipment volume, cost, and delivery reliability don't move in lockstep — Sea shipments cost the most despite average volume, the busiest region (East) is also the slowest, and carrier choice noticeably affects delay outcomes even at similar shipment counts. The near-even split between Paid, Overdue, and Pending payment statuses and the close Failed-vs-Passed inspection split are the two findings most worth acting on operationally: the former as a cash-flow signal, the latter as a quality-control signal, particularly for Pharmaceutical shipments given their higher defect rate. On-time delivery at ~46% leaves substantial room for improvement compared to typical logistics benchmarks, and is a natural next area to drill into by carrier, region, and shipping mode.
 
-## 🛠️ How to Use
-
-1. Place `supply_chain_data.xlsx` in the same folder as `supply_chain_analysis.py`.
-2. Run `python supply_chain_analysis.py` to clean the data and generate `supply_chain_data_cleaned.xlsx`.
-3. Explore the printed console output for Stage 1–4 results (data understanding, cleaning validation, EDA, advanced pandas).
-4. Open `supply_chain_data_cleaned.xlsx` directly in Excel to build your own pivot tables or charts on top of the cleaned data.
-
 ## ⚠️ Note
 
 All data is synthetically generated for demonstration/practice purposes and does not represent a real logistics company's shipment records.
