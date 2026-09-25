@@ -6,7 +6,7 @@ A pandas-based data cleaning and analysis project simulating shipment, cost, and
 
 | File | Description | Link |
 |---|---|---|
-| `supply_chain_data.xlsx` | Full workbook — raw data, calculation sheets, and dashboards | [📥 Download](https://github.com/Hareshwaran55/Supply-Chain-Analysis/raw/main/supply_chain_data.xlsx)|
+| `supply_chain_data.xlsx` | Full workbook — raw data, calculation sheets, and dashboards | [📥 Download](https://github.com/Hareshwaran55/Supply-Chain-Analysis)|
 
 ## 📊 Dataset Structure
 
