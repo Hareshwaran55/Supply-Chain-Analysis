@@ -8,6 +8,29 @@ A pandas-based data cleaning and analysis project simulating shipment, cost, and
 |---|---|---|
 | `supply_chain_data.xlsx` | Full workbook — raw data, calculation sheets, and dashboards | [📥 Download](https://github.com/Hareshwaran55/Supply-Chain-Analysis/raw/main/supply_cahin_data.xlsx)|
 
+## 🎯 Objectives
+
+- Understand the structure and quality of the raw supply chain data
+- Identify missing values and duplicate records
+- Clean and standardize text data
+- Convert columns to appropriate data types
+- Handle invalid dates and values
+- Handle missing numeric and categorical values
+- Recalculate total cost
+- Validate the cleaned dataset
+- Perform exploratory data analysis
+- Analyze shipment and supply chain trends
+- Perform supplier, carrier, and shipping-mode analysis
+
+  ## 🛠️ Tools & Technologies
+
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Jupyter Notebook**
+- **Microsoft Excel**
+
+
 ## 📊 Dataset Structure
 
 The dataset is a single shipment-level table, **6,000 cleaned rows** (from 6,150 raw rows) across **25+ columns**, covering:
